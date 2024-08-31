@@ -4,7 +4,7 @@
 #include "DHT.h"
 #define DHTTYPE DHT11  // DHT 11
 
-const char* ssid = "Juanjo.mc";
+const char* ssid = "mamp.mc";
 const char* password = "123456789";
 
 #define LED 2 // LED
